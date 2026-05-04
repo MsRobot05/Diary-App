@@ -1,9 +1,9 @@
- 📔 Secret Diary App
+  Secret Diary App
 
 A simple **desktop diary application** built with **Python and Tkinter**. This app allows users to write personal diary entries that are automatically shown in a **secret coded form**, helping keep private thoughts hidden from others.
 
 ---
- ✨ Features
+  Features
 
 * Write diary entries easily
 * Text is displayed in **coded (secret) symbols** while typing
@@ -14,14 +14,14 @@ A simple **desktop diary application** built with **Python and Tkinter**. This a
 
 ---
 
- 🛠 Tech Stack
+  Tech Stack
 
 * Python 3
 * Tkinter (GUI)
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 1. Clone the repository or download the files
 2. Make sure Python is installed on your system
@@ -35,7 +35,7 @@ python ss.py
 5. The **Secret Diary** window will open
 
 
-## ✍️ How to Use
+##  How to Use
 
 1. Click inside the text area and start typing
 2. Your text will appear in coded (secret) form
@@ -46,13 +46,13 @@ python ss.py
 
 
 
- ⚠️ Important Notes
+  Important Notes
 
 * The app does not auto-save
 * Always save before closing the app
 * Closing without saving will lose data
 
-🔐 Optional Password Version
+ Optional Password Version
 
 The project also includes `secret_diary.py`, which:
 
@@ -61,7 +61,7 @@ The project also includes `secret_diary.py`, which:
 * Saves data in encrypted format
 
 
- 📌 Use Cases
+  Use Cases
 
 * Personal diary
 * Python GUI practice
