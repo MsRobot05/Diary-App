@@ -69,7 +69,7 @@ The project also includes `secret_diary.py`, which:
 * College submissions
 
 
-👨‍💻 Author
+ Author
 
 **MsRobot05**
 
