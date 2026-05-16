@@ -2,7 +2,7 @@
 
 A simple **desktop diary application** built with **Python and Tkinter**. This app allows users to write personal diary entries that are automatically shown in a **secret coded form**, helping keep private thoughts hidden from others.
 
----
+
   Features
 
 * Write diary entries easily
