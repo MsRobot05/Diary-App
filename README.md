@@ -12,14 +12,14 @@ A simple **desktop diary application** built with **Python and Tkinter**. This a
 * Save diary to a file
 * Load diary anytime later
 
----
+
 
   Tech Stack
 
 * Python 3
 * Tkinter (GUI)
 
----
+
 
 ##  How to Run the Project
 
